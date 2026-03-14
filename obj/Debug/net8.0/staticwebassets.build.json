@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "hMYJi5HNLHSZhWtT0epd8+jxbHXIvkSATk8kVUWo9iU=",
+  "Source": "display_an_invoice3",
+  "BasePath": "_content/display_an_invoice3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "display_an_invoice3\\wwwroot",
+      "Source": "display_an_invoice3",
+      "ContentRoot": "C:\\Users\\Lenovo\\Downloads\\display_an_invoice3\\wwwroot\\",
+      "BasePath": "_content/display_an_invoice3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lenovo\\Downloads\\display_an_invoice3\\wwwroot\\index.html",
+      "SourceId": "display_an_invoice3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Downloads\\display_an_invoice3\\wwwroot\\",
+      "BasePath": "_content/display_an_invoice3",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Downloads\\display_an_invoice3\\wwwroot\\script.js",
+      "SourceId": "display_an_invoice3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Downloads\\display_an_invoice3\\wwwroot\\",
+      "BasePath": "_content/display_an_invoice3",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Downloads\\display_an_invoice3\\wwwroot\\styles.css",
+      "SourceId": "display_an_invoice3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Downloads\\display_an_invoice3\\wwwroot\\",
+      "BasePath": "_content/display_an_invoice3",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}

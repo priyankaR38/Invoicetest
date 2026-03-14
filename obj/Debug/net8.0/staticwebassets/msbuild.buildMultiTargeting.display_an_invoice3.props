@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\display_an_invoice3.props" />
+</Project>

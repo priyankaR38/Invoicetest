@@ -40,7 +40,7 @@ using (var scope = app.Services.CreateScope())
     db.Database.EnsureCreated();
     if (!db.Invoices.Any())
     {
-        var invoice = new Invoice { InvoiceID = 1, CustomerName = "John Doe" };
+        var invoice = new Invoice { InvoiceID = 1, CustomerName = "Priyanka Rasal" };
         db.Invoices.Add(invoice);
         db.Items.Add(new Item { ItemID = 1, InvoiceID = 1, Name = "Widget A", Price = 19.99m });
         db.SaveChanges();

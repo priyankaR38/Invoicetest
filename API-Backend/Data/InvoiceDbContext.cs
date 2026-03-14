@@ -11,3 +11,6 @@ namespace display_an_invoice3.Data
         public DbSet<Item> Items { get; set; }
     }
 }
+
+
+
